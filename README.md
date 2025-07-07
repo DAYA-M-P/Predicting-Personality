@@ -39,6 +39,16 @@ pip install flask numpy scikit-learn
 python app.py
 The app will be available at http://127.0.0.1:5000/.
 
+# ☁️ Deployment on AWS EC2 (Live Hosting)
+
+The application is successfully deployed and shared with the public using AWS EC2:
+
+# ✅ Deployment Steps:
+
+Created an EC2 Instance.
+Connected via SSH to the instance.
+Installed Python and pip:
+
 # 📄 How It Works
 
 User enters numerical values in a web form.
