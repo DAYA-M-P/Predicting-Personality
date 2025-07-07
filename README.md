@@ -12,10 +12,14 @@ Predicted Personality: Introvert
 # 📁 Project Structure
 
 ├── app.py               # Flask application
+
 ├── rf_model.pkl         # Trained Random Forest model
+
 ├── Personality.ipynb    # Notebook used for data exploration, training & evaluation
+
 ├── templates/
 │   └── index.html       # Web page for user input 
+
 └── README.md            # Project overview
 
 # 🧠 Model Overview
